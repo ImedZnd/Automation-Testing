@@ -5,7 +5,7 @@ import pytest
 
 def setup_function():
     global driver
-    driver = webdriver.Chrome(executable_path=ChromeDriverManager.install())
+    driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
     driver.get("https://facebook.com")
     driver.maximize_window()
 
@@ -24,4 +24,5 @@ def get_data():
 
 @pytest.mark.parametrize("username,password", get_data())
 def test_do_login(username, password):
-    print(username + "-----" + password)
+    driver.find_element_by_id("email").send_keys(username)
+    driver.find_element_by_id("pass").send_keys(password)
