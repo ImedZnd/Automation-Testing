@@ -1,0 +1,5 @@
+creating DB connection
+Lunching browser
+executing reg test
+closing browser
+closing DB connection

@@ -1,0 +1,5 @@
+connect DB
+lunching browser
+executing login test
+closing browser
+closing connection DB
