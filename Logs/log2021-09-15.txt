@@ -1,0 +1,57 @@
+2021-09-15 00:04:54,383 - test_signup.py:[16] - [INFO] - Test Do Sign Up Started 
+2021-09-15 00:04:54,636 - BasePage.py:[29] - [INFO] - typing on elemet : name_CSS with value Imed
+2021-09-15 00:04:54,729 - BasePage.py:[29] - [INFO] - typing on elemet : phone_CSS with value 53108608.0
+2021-09-15 00:04:54,870 - BasePage.py:[29] - [INFO] - typing on elemet : email_CSS with value imedzenned@yahoo.fr
+2021-09-15 00:04:54,884 - BasePage.py:[39] - [INFO] - selecting on elemet : country_CSS with value Tunisia
+2021-09-15 00:04:55,106 - BasePage.py:[29] - [INFO] - typing on elemet : city_CSS with value Ariana
+2021-09-15 00:04:55,204 - BasePage.py:[29] - [INFO] - typing on elemet : username_CSS with value imedZnd
+2021-09-15 00:04:55,373 - BasePage.py:[29] - [INFO] - typing on elemet : password_CSS with value imd@znd147+
+2021-09-15 00:04:55,456 - BasePage.py:[21] - [INFO] - clicking on elemet : submit_CSS
+2021-09-15 00:04:55,457 - test_signup.py:[19] - [INFO] - Test Do Sign Up Finiched 
+2021-09-15 00:06:09,135 - test_signup.py:[16] - [INFO] - Test Do Sign Up Started 
+2021-09-15 00:06:09,421 - BasePage.py:[29] - [INFO] - typing on elemet : name_CSS with value Imed
+2021-09-15 00:06:09,443 - BasePage.py:[29] - [INFO] - typing on elemet : phone_CSS with value 53108608.0
+2021-09-15 00:06:09,463 - BasePage.py:[29] - [INFO] - typing on elemet : email_CSS with value imedzenned@yahoo.fr
+2021-09-15 00:06:09,467 - BasePage.py:[39] - [INFO] - selecting on elemet : country_CSS with value Tunisia
+2021-09-15 00:06:09,730 - BasePage.py:[29] - [INFO] - typing on elemet : city_CSS with value Ariana
+2021-09-15 00:06:09,755 - BasePage.py:[29] - [INFO] - typing on elemet : username_CSS with value imedZnd
+2021-09-15 00:06:09,785 - BasePage.py:[29] - [INFO] - typing on elemet : password_CSS with value imd@znd147+
+2021-09-15 00:06:10,044 - BasePage.py:[21] - [INFO] - clicking on elemet : submit_CSS
+2021-09-15 00:06:10,045 - test_signup.py:[19] - [INFO] - Test Do Sign Up Finiched 
+2021-09-15 22:06:41,307 - test_carwale.py:[17] - [INFO] - go to new car 
+2021-09-15 22:06:41,655 - BasePage.py:[56] - [INFO] - moving to elemet : newCars_XPATH
+2021-09-15 22:06:42,395 - BasePage.py:[22] - [INFO] - clicking on elemet : findNewCar_XPATH
+2021-09-15 22:07:03,463 - test_carwale.py:[17] - [INFO] - go to new car 
+2021-09-15 22:07:03,786 - BasePage.py:[56] - [INFO] - moving to elemet : newCars_XPATH
+2021-09-15 22:07:04,318 - BasePage.py:[22] - [INFO] - clicking on elemet : findNewCar_XPATH
+2021-09-15 23:00:52,186 - test_carwale.py:[25] - [INFO] - select car 
+2021-09-15 23:02:19,074 - test_carwale.py:[25] - [INFO] - select car 
+2021-09-15 23:02:19,376 - BasePage.py:[56] - [INFO] - moving to elemet : newCars_XPATH
+2021-09-15 23:02:19,540 - BasePage.py:[22] - [INFO] - clicking on elemet : findNewCar_XPATH
+2021-09-15 23:02:22,283 - BasePage.py:[22] - [INFO] - clicking on elemet : bmw_CSS
+2021-09-15 23:02:36,996 - test_carwale.py:[25] - [INFO] - select car 
+2021-09-15 23:02:37,317 - BasePage.py:[56] - [INFO] - moving to elemet : newCars_XPATH
+2021-09-15 23:02:37,523 - BasePage.py:[22] - [INFO] - clicking on elemet : findNewCar_XPATH
+2021-09-15 23:02:38,838 - BasePage.py:[22] - [INFO] - clicking on elemet : kia_CSS
+2021-09-15 23:02:52,575 - test_carwale.py:[25] - [INFO] - select car 
+2021-09-15 23:02:52,876 - BasePage.py:[56] - [INFO] - moving to elemet : newCars_XPATH
+2021-09-15 23:02:53,026 - BasePage.py:[22] - [INFO] - clicking on elemet : findNewCar_XPATH
+2021-09-15 23:02:53,843 - BasePage.py:[22] - [INFO] - clicking on elemet : toyota_CSS
+2021-09-15 23:03:08,345 - test_carwale.py:[25] - [INFO] - select car 
+2021-09-15 23:03:08,638 - BasePage.py:[56] - [INFO] - moving to elemet : newCars_XPATH
+2021-09-15 23:03:08,796 - BasePage.py:[22] - [INFO] - clicking on elemet : findNewCar_XPATH
+2021-09-15 23:03:10,333 - BasePage.py:[22] - [INFO] - clicking on elemet : honda_CSS
+2021-09-15 23:03:33,241 - test_carwale.py:[25] - [INFO] - select car 
+2021-09-15 23:03:33,583 - BasePage.py:[56] - [INFO] - moving to elemet : newCars_XPATH
+2021-09-15 23:03:34,083 - BasePage.py:[22] - [INFO] - clicking on elemet : findNewCar_XPATH
+2021-09-15 23:03:53,995 - test_carwale.py:[25] - [INFO] - select car 
+2021-09-15 23:03:54,326 - BasePage.py:[56] - [INFO] - moving to elemet : newCars_XPATH
+2021-09-15 23:03:54,879 - BasePage.py:[22] - [INFO] - clicking on elemet : findNewCar_XPATH
+2021-09-15 23:03:55,351 - BasePage.py:[22] - [INFO] - clicking on elemet : kia_CSS
+2021-09-15 23:04:19,747 - test_carwale.py:[25] - [INFO] - select car 
+2021-09-15 23:04:20,056 - BasePage.py:[56] - [INFO] - moving to elemet : newCars_XPATH
+2021-09-15 23:04:20,676 - BasePage.py:[22] - [INFO] - clicking on elemet : findNewCar_XPATH
+2021-09-15 23:04:22,137 - BasePage.py:[22] - [INFO] - clicking on elemet : toyota_CSS
+2021-09-15 23:04:44,779 - test_carwale.py:[25] - [INFO] - select car 
+2021-09-15 23:04:45,102 - BasePage.py:[56] - [INFO] - moving to elemet : newCars_XPATH
+2021-09-15 23:04:45,628 - BasePage.py:[22] - [INFO] - clicking on elemet : findNewCar_XPATH

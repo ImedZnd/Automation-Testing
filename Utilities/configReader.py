@@ -7,9 +7,7 @@ from configparser import ConfigParser
 # print(config.get("basic info", "testsiteurl"))
 
 
-def read_config(section, key):
+def readConfig(section, key):
     config = ConfigParser()
-    config.read('config.ini')
+    config.read("..\\ConfigurationData\\config.ini")
     return config.get(section, key)
-
-print(read_config("basic info", "testsiteurl"))
